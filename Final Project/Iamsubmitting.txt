@@ -1,0 +1,10 @@
+In the final Project we have try to achive to create an app call HelpFinder app, in the app we have try to 
+which should allow to save some times and save money while we're busy with the life.we had our login 
+screen and signup button. For this week, we created a signup activity that is linked to our signup button 
+on our login screen. We asked user for their first name last name email. We also had them make a username 
+and password for an easy log in processnext time around. We added a submit button which accepts all the
+inputs and makes the user account. Also when they click the submit button they go on the next activity
+which is where they can decide if they want to search for a service or make a seller profile.
+in this project we have use hte android studio. our project project run and compile during all 
+the fileworks including A.Apk executable  the creating app, we have face some problem and limitation
+for our search bar is not working properly 
